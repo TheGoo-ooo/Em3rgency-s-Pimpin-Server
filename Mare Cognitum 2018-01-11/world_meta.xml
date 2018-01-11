@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WorldMetaData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Game>Assembly-CSharp</Game>
+  <GameVersion>0.1.1095.5529</GameVersion>
+  <DateTime>131601764932003220</DateTime>
+  <WorldType>2</WorldType>
+  <WorldFileName>Multiplayer World 2</WorldFileName>
+  <WorkShopFileHandle>0</WorkShopFileHandle>
+  <NumberOfRooms>250</NumberOfRooms>
+  <NumberOfPipeNetworks>79</NumberOfPipeNetworks>
+  <NumberOfCableNetworks>114</NumberOfCableNetworks>
+  <NumberOfThings>8232</NumberOfThings>
+  <NumberOfAtmospheres>560</NumberOfAtmospheres>
+  <NumberOfAsteriods>0</NumberOfAsteriods>
+</WorldMetaData>
